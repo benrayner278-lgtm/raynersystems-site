@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25572243/README.md)
 # Rayner Systems Portfolio
 
 Simple portfolio site showcasing automation systems :
